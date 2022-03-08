@@ -1,0 +1,4 @@
+str1="varun"
+str2="bus"
+str=str1+str2
+print(str)
